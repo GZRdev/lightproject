@@ -8,7 +8,7 @@ function App() {
 
 let hello = "hello world"
 
-console.log(hello + "bing bong bang boom")
+console.log(hello + "bing bong bang boom bam")
 
 let food = "hamburger"
 
